@@ -48,5 +48,5 @@ git clone https://github.com/Akshint0407/Login-and-Registration-Website.git
   - 🔗 LinkedIn: [Akshint-Varma](https://www.linkedin.com/in/akshint-varma/)
 
 📜 License
-This project is open-source and free to use under the [MIT](License) License.
+This project is open-source and free to use under the [MIT License](LICENSE).
 
