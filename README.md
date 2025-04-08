@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 ```
-git clone https://github.com/your-username/login-register-page.git
+git clone https://github.com/Akshint0407/Login-and-Registration-Website.git
 ```
 
 ### Open the project:
